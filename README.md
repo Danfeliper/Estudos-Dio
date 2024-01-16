@@ -1,4 +1,4 @@
-# Estudos-Dio-desafio-git
+# Estudos-Dio Links Uteis
 Repositório para estudos de linguagens
 
 ### Links úteis
